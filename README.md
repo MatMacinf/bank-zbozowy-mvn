@@ -1,2 +1,2 @@
-![example workflow](https://github.com/MatMacinf/bank-zbozowy-mvn/actions/workflows/Create ci.yml
+![example workflow](https://github.com/MatMacinf/bank-zbozowy-mvn/actions/workflows/ci.yml
 /badge.svg)
